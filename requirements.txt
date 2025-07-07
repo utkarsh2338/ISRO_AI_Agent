@@ -6,5 +6,4 @@ PyPDF2
 pandas
 python-dotenv
 sentence-transformers
-llama-cpp-python
-streamlit-component-lib
+
