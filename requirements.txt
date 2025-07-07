@@ -7,5 +7,4 @@ pandas
 python-dotenv
 sentence-transformers
 llama-cpp-python
-hashlib
 streamlit-component-lib
